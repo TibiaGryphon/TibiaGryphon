@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My name is Gabriel M. Chiapetti, also known as TibiaGryphon. I'm an avid videogame programmer and amateur Website designer. I'm also the creator of some cool projects you might want to check out :)</h3>
+<h3 align="center">My name is TibiaGryphon. I'm an avid videogame programmer and amateur Website designer. I've worked on many games of my own. I'm also an artist.</h3>
 
 ###
 
